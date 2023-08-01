@@ -4,14 +4,14 @@ __
 
 
 
-### What is a [cloud architecture diagram](https://app.eraser.io/workspace/fmDDzpWvPWW3Ske9KD2h?elements=MziDflORdU67wqCTHtgbaA)?
+### What is a [﻿﻿cloud architecture diagram](https://app.eraser.io/workspace/fmDDzpWvPWW3Ske9KD2h?elements=MziDflORdU67wqCTHtgbaA)?
 - It is a visualization of cloud infrastructure using nodes, groups, and connections. Nodes and groups can be represented with icons. 
-- Full syntax documentation found [here](https://docs.tryeraser.com/docs/syntax).
-- Full icon gallery [here](https://docs.tryeraser.com/docs/icons).
-- More examples [here](https://docs.tryeraser.com/docs/examples).
+- Full syntax documentation found [﻿﻿here](https://docs.tryeraser.com/docs/syntax).
+- Full icon gallery [﻿﻿here](https://docs.tryeraser.com/docs/icons).
+- More examples [﻿﻿here](https://docs.tryeraser.com/docs/examples).
 
 
-### How to insert a new cloud architecture diagram ([see how](https://app.eraser.io/workspace/fmDDzpWvPWW3Ske9KD2h?elements=Ob4Pw_Cu8MZqjWMnsrWfvQ))
+### How to insert a new cloud architecture diagram ([﻿﻿see how](https://app.eraser.io/workspace/fmDDzpWvPWW3Ske9KD2h?elements=Ob4Pw_Cu8MZqjWMnsrWfvQ))
 1. Click on the "+" button or `/` shortcut on the canvas
 2. Select "Diagram as Code"
 3. Select "Cloud Architecture Diagram"
@@ -19,9 +19,9 @@ __
 
 
 
-### How to edit a cloud architecture diagram ([see how](https://app.eraser.io/workspace/fmDDzpWvPWW3Ske9KD2h?elements=BL3AYRAx7po4IQPZaSuHiQ))
+### How to edit a cloud architecture diagram ([﻿﻿see how](https://app.eraser.io/workspace/fmDDzpWvPWW3Ske9KD2h?elements=BL3AYRAx7po4IQPZaSuHiQ))
 1. **Double-click** on the diagram to open the code editor
-2. Click on the "Syntax Help" or "[Documentation](https://docs.tryeraser.com/docs/syntax)" to learn more
+2. Click on the "Syntax Help" or "[﻿﻿Documentation](https://docs.tryeraser.com/docs/syntax)" to learn more
 
 
 
